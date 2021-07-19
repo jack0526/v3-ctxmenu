@@ -1,0 +1,23 @@
+.ctxmenu-container {
+  position: fixed;
+  background: #434b55;
+  z-index: 4000;
+  box-shadow: 0 2px 12px 0 #434b55;
+}
+
+.ctxmenu-ul-container {
+  list-style-type: none;
+}
+
+.ctxmenu-li-item {
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 2px 10px;
+  &:hover {
+    background: darken(#434b55, 10%);
+  }
+  &:active {
+    background: darken(#434b55, 10%);
+  }
+}

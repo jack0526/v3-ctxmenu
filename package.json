@@ -1,0 +1,30 @@
+{
+  "name": "v3-ctxmenu",
+  "version": "1.0.0",
+  "description": "vue3 contextmenu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack0526/v3-ctxmenu.git"
+  },
+  "keywords": [
+    "contextmenu",
+    "vue3"
+  ],
+  "author": "zhenyanyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jack0526/v3-ctxmenu/issues"
+  },
+  "homepage": "https://github.com/jack0526/v3-ctxmenu#readme",
+  "dependencies": {
+    "vue": "^3.1.5"
+  },
+  "devDependencies": {
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0"
+  }
+}
